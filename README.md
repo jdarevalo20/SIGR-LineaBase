@@ -12,3 +12,9 @@ Proyecto desarrollado para la asignatura Gestión del Software.
 - Reservas
 - Facturación
 - Reportes
+
+## Línea Base
+
+Versión estable seleccionada para el proyecto:
+
+**Línea Base v1.0**
